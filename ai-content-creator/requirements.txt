@@ -1,0 +1,10 @@
+openai
+python-dotenv
+markdown
+gradio
+reportlab
+pillow
+requests
+beautifulsoup4
+pypdf
+cairosvg

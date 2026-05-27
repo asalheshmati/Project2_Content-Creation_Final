@@ -1,0 +1,11 @@
+{
+  "project_name": "Recru AI Content Generator",
+  "rules": [
+    "Use beginner-friendly Python",
+    "Keep code simple and readable",
+    "Explain changes before applying them",
+    "Do not access API keys",
+    "Do not push code without human review",
+    "Do not add advanced RAG unless MVP works first"
+  ]
+}
