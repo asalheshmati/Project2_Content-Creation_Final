@@ -1,35 +1,25 @@
-**Instagram Card Concept: Hospitality Design Hiring**
-
 ---
 
-**[Visual Style: Elegant and Inviting with a Touch of Sophistication]**
+**Visual Concept for Instagram Card**
 
----
+**Header (Bold, Large Font):**  
+✨ Exciting News from Recru AI! 🎉  
 
-### Headline:
-**Struggling to Find Talented Hospitality Designers?**
+**Subheader (Medium Font):**  
+Introducing Our New Hybrid Recruitment Service  
 
----
+**Main Body (Regular Font):**  
+Is finding top talent for your architecture or design firm taking too long? You're not alone! Many firms struggle with urgent hiring needs, high recruitment fees, and low candidate quality.  
 
-### Subheadline:
-**The Challenge:**
-Hiring for hospitality design roles requires a unique mix of creativity, technical skill, and client communication. But many candidates just don’t match the expectations.
+At Recru AI, we've combined human recruiter expertise with AI-assisted workflows to streamline your hiring process. Get faster shortlists, better-quality candidates, and lower costs—without the stress.  
 
----
+**Call to Action (Bold, Medium Font):**  
+Ready to hire smarter? Contact us today!
 
-### Solution Section:
-**The Recru AI Advantage:**
-- **Faster Shortlists:** We curate candidates who truly understand hospitality design.
-- **Quality Candidates:** Focus on portfolios that impress and skills that shine.
-- **Affordable Fees:** Save up to 80% compared to traditional agency costs.
+---  
 
----
-
-### Pain Point:
-**Don’t Let Limited Talent Hold Your Projects Back.**
-
----
-
-### Call to Action:
-**Ready to upgrade your hiring? Let Recru AI help!**  
-👉 DM us today!
+**Visual Style Notes:**  
+- Background: Clean and minimalistic  
+- Accent Colors: Use Recru AI brand colors for elements and text  
+- Icons: Include icons for speed, quality, and cost-effectiveness to visually reinforce messages  
+- Logo: Place Recru AI logo in the corner for brand recognition

@@ -278,6 +278,7 @@ def build_app():
                 generate_visual = gr.Checkbox(
                     label="Generate Visual Post",
                     value=True,
+                    elem_id="generate-visual-toggle",
                 )
                 visual_style = gr.Dropdown(
                     choices=VISUAL_STYLES,
@@ -382,6 +383,7 @@ if __name__ == "__main__":
     app = build_app()
     app.launch(
         inbrowser=True,
+        server_port=7864,
         theme=gr.themes.Soft(),
         css="""
         .shell {
@@ -598,6 +600,33 @@ if __name__ == "__main__":
         .card .gr-markdown,
         .card .gr-html {
             color: #ffffff;
+        }
+        #generate-visual-toggle {
+            position: relative;
+            z-index: 3;
+            margin-top: 8px;
+            margin-bottom: 10px;
+        }
+        #generate-visual-toggle label {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            cursor: pointer;
+            color: #ffffff !important;
+            font-weight: 700 !important;
+        }
+        #generate-visual-toggle input[type="checkbox"] {
+            width: 18px;
+            height: 18px;
+            min-width: 18px;
+            min-height: 18px;
+            accent-color: #5b4dff;
+            cursor: pointer;
+            opacity: 1 !important;
+            pointer-events: auto !important;
+        }
+        #generate-visual-toggle * {
+            pointer-events: auto !important;
         }
         .card input,
         .card textarea,
